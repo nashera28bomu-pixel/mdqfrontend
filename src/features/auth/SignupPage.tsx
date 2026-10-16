@@ -91,7 +91,7 @@ export default function SignupPage() {
           name="email"
           icon="mail"
           autoComplete="email"
-          placeholder="name@students.uonbi.ac.ke"
+          placeholder="name@students.jkuat.ac.ke"
           value={values.email}
           onChange={set("email")}
           onBlur={() => {
